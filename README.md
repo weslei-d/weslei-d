@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
-    href="wdias05@gmail.com" 
+    href="mailto:wdias05@gmail.com" 
     alt="Gmail"
     target="blank"
   >
