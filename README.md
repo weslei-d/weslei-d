@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a
-    href="https://[https://www.linkedin.com/in/weslei-dias-2017/](https://www.linkedin.com/in/weslei-dias-2017" 
+    href="https://www.linkedin.com/in/weslei-dias-2017" 
     alt="LinkedIn"
     target="blank"
   >
